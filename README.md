@@ -76,8 +76,8 @@
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: (Add your link)
-* 📧 Email: (optional)
+* 💼 LinkedIn: (https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFZhZ85H5pKoQAAAZz8lXggyCIGXkabHXCqSW1sDTcMZxLN78DdwE21SOYwYwxHL3kiIUJyypseuPV3Wf-LEdylqnZQO31-cKrsb-MyQipa7CqEcMCFoMbbtaJCxvx6lRtRud0=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fharsh-kumar-193302346%3Futm_source%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dmember_android)
+* 📧 Email: facttvsports@gmail.com
 
 ---
 
