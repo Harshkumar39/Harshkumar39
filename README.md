@@ -9,10 +9,10 @@
 
 ## 🧠 About Me
 
-* 💻 Full Stack Developer with focus on **scalable web & backend systems**
-* 🌱 Currently exploring **Spring AI, Docker & System Design**
-* ⚡ Strong in **DSA & Problem Solving (Java)**
-* 🎯 Goal: Build impactful real-world applications & contribute to open source
+* 💻 Full Stack Developer focused on **scalable backend & modern web apps**
+* 🌱 Exploring **Spring AI, Docker & System Design**
+* ⚡ Strong in **DSA using Java**
+* 🎯 Goal: Build impactful real-world applications & grow as a developer
 
 ---
 
@@ -33,7 +33,7 @@
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square\&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square\&logo=springboot)
 ![Spring Security](https://img.shields.io/badge/-SpringSecurity-6DB33F?style=flat-square\&logo=springsecurity)
-![Spring](https://img.shields.io/badge/-SpringAOP-6DB33F?style=flat-square\&logo=spring)
+![Spring AOP](https://img.shields.io/badge/-SpringAOP-6DB33F?style=flat-square\&logo=spring)
 ![Spring AI](https://img.shields.io/badge/-SpringAI-black?style=flat-square)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square\&logo=apachemaven)
 
@@ -45,10 +45,10 @@
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square\&logo=docker)
 ![n8n](https://img.shields.io/badge/-n8n-black?style=flat-square)
 
-### 📱 Mobile & Others
+### 📱 Mobile & Testing
 
 ![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square\&logo=react)
-![JUnit](https://img.shields.io/badge/-JUnit25-green?style=flat-square)
+![JUnit](https://img.shields.io/badge/-JUnit-green?style=flat-square)
 
 ---
 
@@ -61,14 +61,14 @@
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Featured Project
 
 ### 🏢 Employee Management System
 
-* 🚀 Full Stack Application to manage employee data efficiently
-* ⚙️ Built with: **Spring Boot, Spring Security, React, MySQL**
-* 🔐 Features: Authentication, CRUD operations, secure APIs
-* 📊 Designed for scalable backend architecture
+* 🚀 Full Stack Application to manage employee data
+* ⚙️ Tech Stack: **Spring Boot, Spring Security, React, MySQL**
+* 🔐 Features: Authentication, CRUD operations, secure REST APIs
+* 📊 Scalable backend architecture with clean design
 
 👉 https://github.com/Harshkumar39/YOUR-REPO-NAME
 
@@ -76,11 +76,26 @@
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: (https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFZhZ85H5pKoQAAAZz8lXggyCIGXkabHXCqSW1sDTcMZxLN78DdwE21SOYwYwxHL3kiIUJyypseuPV3Wf-LEdylqnZQO31-cKrsb-MyQipa7CqEcMCFoMbbtaJCxvx6lRtRud0=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fharsh-kumar-193302346%3Futm_source%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dmember_android)
-* 📧 Email: facttvsports@gmail.com
+<p align="center">
+  <a href="https://shorturl.at/uU6zj" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+
+  <a href="https://instagram.com/YOUR-INSTAGRAM" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+
+  <a href="mailto:facttvsports@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+
+  <a href="https://github.com/Harshkumar39" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact
 
-> I enjoy building scalable systems and exploring new technologies 🚀
+> I enjoy building scalable backend systems and exploring new technologies 🚀
