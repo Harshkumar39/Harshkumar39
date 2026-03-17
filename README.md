@@ -63,10 +63,14 @@
 
 ## 🔥 Featured Projects
 
-* 🚀 Full Stack App – (Add your best Spring Boot + React project)
-* 💻 Backend API – (Spring Boot + Security + JWT)
-* 🌐 Frontend Project – (React / Tailwind UI)
-* 📱 Mobile App – (React Native)
+### 🏢 Employee Management System
+
+* 🚀 Full Stack Application to manage employee data efficiently
+* ⚙️ Built with: **Spring Boot, Spring Security, React, MySQL**
+* 🔐 Features: Authentication, CRUD operations, secure APIs
+* 📊 Designed for scalable backend architecture
+
+👉 https://github.com/Harshkumar39/YOUR-REPO-NAME
 
 ---
 
