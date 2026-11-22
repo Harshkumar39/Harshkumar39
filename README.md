@@ -1,13 +1,13 @@
 
-<!-- ===================== PREMIUM DEVELOPER HEADER ===================== -->
+<!-- ===================== PROFILE HEADER ===================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=HARSH%20KUMAR&fontSize=65&fontColor=FFFFFF&stroke=00E5FF&strokeWidth=2&color=0:050505,25:130D29,55:301060,80:17102B,100:050505&animation=fadeIn&fontAlignY=50&desc=JAVA%20FULL%20STACK%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEERING&descSize=14&descAlignY=72&descColor=00E5FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:17102B,70:4B0082,100:00E5FF&height=220&section=header&text=HARSH%20KUMAR&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=JAVA%20FULL%20STACK%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEERING%20ENTHUSIAST&descSize=14&descAlignY=58&animation=fadeIn" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+React+Developer;Building+Real-World+Web+Applications;100%2B+LeetCode+Problems+Solved;Exploring+System+Design+%26+Backend+Engineering;Code.+Learn.+Build.+Repeat." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+React+Developer;Building+Real-World+Web+Applications;DSA+Enthusiast+%7C+100%2B+LeetCode+Problems;Exploring+System+Design+%26+Backend+Engineering;Always+Learning.+Always+Building." />
 
 <br/><br/>
 
@@ -21,10 +21,10 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
 </a>
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/●_OPEN_TO_WORK-00E5FF?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/COMPUTER_SCIENCE_STUDENT-8A2BE2?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00E5FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/ROLE-STUDENT-8A2BE2?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
@@ -32,9 +32,9 @@
 
 <!-- ===================== ABOUT ME ===================== -->
 
-## 01. ABOUT ME
+## <img src="https://img.shields.io/badge/01-ABOUT%20ME-00E5FF?style=flat-square&labelColor=0D1117"/> 
 
-<img align="right" width="250" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+<img align="right" width="260" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
 Hey! I'm **Harsh Kumar**, a Computer Science Engineering student and aspiring Java Full Stack Developer.
 
@@ -44,7 +44,7 @@ I enjoy transforming ideas into functional web applications and building backend
 - 💻 Focused on Java Full Stack Development.
 - ⚙️ Building applications using Spring Boot and React.
 - 🧠 Solved 100+ problems on LeetCode.
-- 🏥 Developing HealthSync Hospital Management System.
+- 🏗️ Currently developing HealthSync Hospital Management System.
 - 🚀 Exploring System Design, Microservices and Backend Engineering.
 - 💼 Open to Internship and Full-Time Opportunities.
 
@@ -54,39 +54,39 @@ I enjoy transforming ideas into functional web applications and building backend
 
 <!-- ===================== TECH STACK ===================== -->
 
-## 02. TECH STACK
+## <img src="https://img.shields.io/badge/02-TECH%20STACK-8A2BE2?style=flat-square&labelColor=0D1117"/>
 
-### Programming Languages
+### ⚡ Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts&theme=dark"/>
 </p>
 
-### Frontend Development
+### 🎨 Frontend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,redux&theme=dark"/>
 </p>
 
-### Backend Development
+### ⚙️ Backend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=spring,maven,nodejs&theme=dark"/>
 </p>
 
-### Database & Storage
+### 🗄️ Database & Storage
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=dark"/>
 </p>
 
-### Developer Tools
+### 🛠️ Tools & Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,linux&theme=dark"/>
 </p>
 
-### Currently Exploring
+### 📚 Currently Exploring
 
 <p>
 <img src="https://img.shields.io/badge/System%20Design-0D1117?style=for-the-badge&logo=diagramsdotnet&logoColor=00E5FF"/>
@@ -99,18 +99,18 @@ I enjoy transforming ideas into functional web applications and building backend
 
 <!-- ===================== FEATURED PROJECT ===================== -->
 
-## 03. FEATURED PROJECT
+## <img src="https://img.shields.io/badge/03-FEATURED%20PROJECTS-00E5FF?style=flat-square&labelColor=0D1117"/>
 
-### 🏥 HealthSync — Hospital Management System
+### 🏥 HealthSync – Hospital Management System
 
-<img src="https://img.shields.io/badge/FULL_STACK_APPLICATION-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/PROJECT-FULL%20STACK-8A2BE2?style=flat-square"/>
 <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-00E5FF?style=flat-square"/>
 
 A web-based Hospital Management System designed to streamline hospital operations and improve patient management through a centralized platform.
 
 **Technology Stack**
 
-`Java` `Spring Boot` `React.js` `MySQL` `Spring Security`
+`React.js` `Spring Boot` `Java` `MySQL` `Spring Security`
 
 **Core Modules**
 
@@ -123,31 +123,31 @@ A web-based Hospital Management System designed to streamline hospital operation
 - 💳 Billing Management
 - 🔐 Authentication & Role-Based Access Control
 
-**Architecture**
-
-React Frontend → Spring Boot REST APIs → MySQL Database
+**Architecture:** React Frontend + Spring Boot REST APIs + MySQL Database.
 
 ---
 
 <!-- ===================== LEETCODE ===================== -->
 
-## 04. DSA & LEETCODE
+## <img src="https://img.shields.io/badge/04-DSA%20%26%20LEETCODE-FFA116?style=flat-square&labelColor=0D1117"/>
 
 <div align="center">
 
 <a href="https://leetcode.com/u/fTe8o0ndM3/">
-<img src="https://img.shields.io/badge/LEETCODE-100%2B%20PROBLEMS%20SOLVED-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
 </a>
 
 <br/><br/>
 
-<img src="https://leetcard.jacoblin.cool/fTe8o0ndM3?theme=dark&font=Fira%20Code&ext=heatmap" width="85%"/>
+<img src="https://leetcard.jacoblin.cool/fTe8o0ndM3?theme=dark&font=Fira%20Code&ext=heatmap" width="80%"/>
 
-<br/><br/>
+<br/>
 
-**DSA Focus Areas**
+**My DSA Focus**
 
-`Arrays` · `Strings` · `Hashing` · `Recursion` · `Sorting` · `Searching` · `Linked Lists` · `Trees` · `Stacks & Queues` · `Dynamic Programming`
+`Arrays` · `Strings` · `Hashing` · `Recursion` · `Sorting` · `Searching` · `Linked List` · `Trees` · `Stack & Queue` · `Dynamic Programming`
 
 </div>
 
@@ -155,7 +155,7 @@ React Frontend → Spring Boot REST APIs → MySQL Database
 
 <!-- ===================== GITHUB ANALYTICS ===================== -->
 
-## 05. GITHUB ANALYTICS
+## <img src="https://img.shields.io/badge/05-GITHUB%20ANALYTICS-8A2BE2?style=flat-square&labelColor=0D1117"/>
 
 <div align="center">
 
@@ -165,15 +165,15 @@ React Frontend → Spring Boot REST APIs → MySQL Database
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=Harshkumar39&theme=synthwave&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Harshkumar39&theme=synthwave&hide_border=true"/>
 
 </div>
 
 ---
 
-<!-- ===================== CONTRIBUTION ACTIVITY ===================== -->
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
 
-## 06. CONTRIBUTION ACTIVITY
+## <img src="https://img.shields.io/badge/06-CONTRIBUTION%20ACTIVITY-00E5FF?style=flat-square&labelColor=0D1117"/>
 
 <div align="center">
 
@@ -183,9 +183,9 @@ React Frontend → Spring Boot REST APIs → MySQL Database
 
 ---
 
-<!-- ===================== CONNECT WITH ME ===================== -->
+<!-- ===================== CONNECT ===================== -->
 
-## 07. CONNECT WITH ME
+## <img src="https://img.shields.io/badge/07-LET'S%20CONNECT-8A2BE2?style=flat-square&labelColor=0D1117"/>
 
 <div align="center">
 
@@ -209,18 +209,16 @@ I'm always interested in connecting with developers, collaborating on projects a
 <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 
-<br/><br/>
-
 <a href="https://github.com/Harshkumar39">
-<img src="https://img.shields.io/badge/LET'S%20BUILD%20SOMETHING%20GREAT-00E5FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Follow%20My%20Journey-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:17102B,70:4B0082,100:00E5FF&height=130&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:17102B,75:4B0082,100:00E5FF&height=120&section=footer"/>
 
-### ⚡ Code. Learn. Build. Repeat.
+### ⚡ "Code. Learn. Build. Repeat."
 
-<sub>Thanks for visiting my profile. Let's build something amazing together.</sub>
+<sub>Thanks for visiting my profile! Let's build something amazing together.</sub>
 
 </div>
